@@ -1,3 +1,5 @@
 public class Ortak {
-    //from ilyas
+
+    //from şenol
+
 }
