@@ -5,4 +5,6 @@ public class Ortak {
         System.out.println("ljşsdf");
     }
     //last updates
+
+    //most last updates
 }
